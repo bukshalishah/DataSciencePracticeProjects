@@ -1,1 +1,1 @@
-# DataSciencePracticeProjects
+# Data Science Practice Projects
